@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67952592588",
+    "project_id": "smartcampusnavigatorai",
+    "storage_bucket": "smartcampusnavigatorai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67952592588:android:815dbe40114d88b9f7e469",
+        "android_client_info": {
+          "package_name": "com.example.SmartCampusNavigatorAI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zsYnKKtiqudxYGsbf8-zXvbsykpzPwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

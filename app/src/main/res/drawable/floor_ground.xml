@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0"
+    android:tint="?attr/colorPrimary">
+    <!-- Ground Floor: Big U Shape -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M3,3h6v12h6V3h6v18H3V3z M6,6v2h2V6H6z M16,6v2h2V6H16z" />
+</vector>
